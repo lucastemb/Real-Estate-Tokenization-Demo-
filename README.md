@@ -1,2 +1,3 @@
 # Real Estate Tokenization (Demo) 🏠
 
+Our team created a demo that involves the tokenization of real estate. The goal of this project was to explore the potential idea of replacing the traditional property deed with tokens with the help of an smart contract. Through the usage of Non-fungible tokens (NFTs) and a token named ERC-721 that has the functionality of having a different value than other tokens in the same smart contract. The demo was created through the Ethereum blockchain and was deployed locally. Mutiple smart contracts were created. Market.sol emulates what a normal real estate marketplace would be through the use of tokens. Property.sol was also a smart contract that was created with the purpose of minting tokens. 
